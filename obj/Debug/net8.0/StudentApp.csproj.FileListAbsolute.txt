@@ -1,0 +1,14 @@
+C:\Users\ajay.paul\Downloads\Ajaypaul\DotNet\StudentApp\bin\Debug\net8.0\StudentApp.exe
+C:\Users\ajay.paul\Downloads\Ajaypaul\DotNet\StudentApp\bin\Debug\net8.0\StudentApp.deps.json
+C:\Users\ajay.paul\Downloads\Ajaypaul\DotNet\StudentApp\bin\Debug\net8.0\StudentApp.runtimeconfig.json
+C:\Users\ajay.paul\Downloads\Ajaypaul\DotNet\StudentApp\bin\Debug\net8.0\StudentApp.dll
+C:\Users\ajay.paul\Downloads\Ajaypaul\DotNet\StudentApp\bin\Debug\net8.0\StudentApp.pdb
+C:\Users\ajay.paul\Downloads\Ajaypaul\DotNet\StudentApp\obj\Debug\net8.0\StudentApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajay.paul\Downloads\Ajaypaul\DotNet\StudentApp\obj\Debug\net8.0\StudentApp.AssemblyInfoInputs.cache
+C:\Users\ajay.paul\Downloads\Ajaypaul\DotNet\StudentApp\obj\Debug\net8.0\StudentApp.AssemblyInfo.cs
+C:\Users\ajay.paul\Downloads\Ajaypaul\DotNet\StudentApp\obj\Debug\net8.0\StudentApp.csproj.CoreCompileInputs.cache
+C:\Users\ajay.paul\Downloads\Ajaypaul\DotNet\StudentApp\obj\Debug\net8.0\StudentApp.dll
+C:\Users\ajay.paul\Downloads\Ajaypaul\DotNet\StudentApp\obj\Debug\net8.0\refint\StudentApp.dll
+C:\Users\ajay.paul\Downloads\Ajaypaul\DotNet\StudentApp\obj\Debug\net8.0\StudentApp.pdb
+C:\Users\ajay.paul\Downloads\Ajaypaul\DotNet\StudentApp\obj\Debug\net8.0\StudentApp.genruntimeconfig.cache
+C:\Users\ajay.paul\Downloads\Ajaypaul\DotNet\StudentApp\obj\Debug\net8.0\ref\StudentApp.dll
