@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "272J6eup9YM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ajay.paul\\Downloads\\Ajaypaul\\DotNet\\WebApplication1\\WebApplication1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ajay.paul\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\9.0.0\\microsoft.aspnetcore.jsonpatch.9.0.0.nupkg.sha512",
+    "C:\\Users\\ajay.paul\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\ajay.paul\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
